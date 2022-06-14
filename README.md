@@ -34,6 +34,6 @@
 
 <br>
 
-<p><img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=swaraj55&show_icons=true&locale=en&layout=default&theme=tokyonight" alt="swaraj55" /></p>
+<p><img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj55&show_icons=true&locale=en&layout=default&theme=tokyonight" alt="swaraj55" /></p>
 
 <p><img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=swaraj55&theme=tokyonight" alt="swaraj55" /></p>
