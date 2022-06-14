@@ -36,4 +36,4 @@
 
 <p><img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj55&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="swaraj55" /></p>
 
-<p><img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=swaraj55&theme=gruvbox" alt="swaraj55" /></p>
+<p><img height="200px" width="400px" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swaraj55&theme=tokyonight)](https://git.io/streak-stats)" alt="swaraj55" /></p>
