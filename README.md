@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj55&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj55" /> </p>
 
 <p align= "center" href="https://github.com/swaraj55">
- <img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=swaraj55&theme=gruvbox&show_icons=true&count_private=true" alt="swaraj55"/>
+ <img align="left" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=swaraj55&theme=tokyonight&show_icons=true&count_private=true" alt="swaraj55"/>
  <a href="#" align="right"><img width="270" width="350" src="https://i.imgur.com/hbvUSSi.png"></a>
 </p>
 
@@ -34,6 +34,12 @@
 
 <br>
 
-<p><img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj55&show_icons=true&locale=en&layout=default&theme=tokyonight" alt="swaraj55" /></p>
+<div align="center">
+  <div align="left">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj55&show_icons=true&locale=en&layout=default&theme=tokyonight"          alt="swaraj55" />
+  </div>
 
-<p><img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=swaraj55&theme=tokyonight" alt="swaraj55" /></p>
+  <div align="left">
+    <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=swaraj55&theme=tokyonight" alt="swaraj55" />
+  </div>
+</div>
